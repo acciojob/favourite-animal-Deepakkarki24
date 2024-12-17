@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+.animal-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .animal-container img {
+            width: 300px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #aaa;
+        }
